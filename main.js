@@ -15,6 +15,7 @@ console.log(SOCBook);
 
 function lizRiosFavFruit() {
   // Your code goes here...
+
 }
 
 console.log("Liz Rios' favourite fruit is:", lizRiosFavFruit());
